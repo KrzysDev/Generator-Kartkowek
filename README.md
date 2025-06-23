@@ -1,2 +1,3 @@
 # Generator-Kartkowek
-generator kartkowek dla mojej mamy
+Moja mama jest nauczycielką niemieckiego i co roku robi swoim uczniom kartkówkę z czasowników nieregularnych. Ukladanie kartkowek jest czasochlonne wiec napisalem prosty program konsolowy,
+który jej to ułatwi.
